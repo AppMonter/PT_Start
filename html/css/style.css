@@ -1,0 +1,59 @@
+body {
+    background-color: #08161e;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.my_photo {
+    background: url(../image/Hacker\ Wallpaper\ 4K\ Full\ HD.jpeg) no-repeat center center;
+    background-size: 100%;
+    width: 250px;
+    height: 380px;
+    margin: auto auto;
+}
+
+.col-12{
+    text-align: center;
+}
+
+.col-4.nav_logo {
+    background: url(../image/logo-full.8ba3426.svg) no-repeat center center;
+    background-color: aliceblue;
+    background-size: 100%;
+}
+
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+
+.title_photo {
+    text-align: center;
+}
+
+
+.btn_red{
+    border: none;
+    border-radius: 15px;
+    width: 200px;
+    height: 80px;
+    background-color: #a30f0f;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+    margin: 20px auto 20px auto;
+}
+
+#demo img {
+    margin-top: 20px;
+    width: 45%;
+    height: 30%;
+}
+
